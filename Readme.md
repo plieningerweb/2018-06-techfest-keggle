@@ -4,6 +4,12 @@
 
 Track winner with autonomous beer delivery robot
 
+
+![image-sueddeutsche.png](image-sueddeutsche.png)
+
+
+We got also mentioned in the newspaper [Sueddeutsche Zeitung](https://www.sueddeutsche.de/muenchen/studenten-wettbewerb-frischgezapftes-bier-per-app-1.4019201).
+
 ## Idea
 
 Use an app to deliver a fresh bier on the tap of a button. A fresh keggle drives to your gps location and let's you tap a beer.
